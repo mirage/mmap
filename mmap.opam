@@ -4,6 +4,7 @@ authors: ["Jérémie Dimino <jeremie@dimino.org>"]
 homepage: "https://github.com/mirage/mmap"
 bug-reports: "https://github.com/mirage/mmap/issues"
 dev-repo: "git+https://github.com/mirage/mmap.git"
+doc: "https://mirage.github.io/mmap/"
 license: "LGPL 2.1 with linking exception"
 build: [
   ["dune" "build" "-p" name "-j" jobs]
