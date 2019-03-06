@@ -1,9 +1,9 @@
 opam-version: "2.0"
 maintainer: "jeremie@dimino.org"
 authors: ["Jérémie Dimino <jeremie@dimino.org>"]
-homepage: "https://github.com/diml/mmap"
-bug-reports: "https://github.com/diml/mmap/issues"
-dev-repo: "git+https://github.com/diml/mmap.git"
+homepage: "https://github.com/mirage/mmap"
+bug-reports: "https://github.com/mirage/mmap/issues"
+dev-repo: "git+https://github.com/mirage/mmap.git"
 license: "LGPL 2.1 with linking exception"
 build: [
   ["dune" "build" "-p" name "-j" jobs]
