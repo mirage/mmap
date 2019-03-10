@@ -3,6 +3,7 @@ maintainer: "jeremie@dimino.org"
 authors: ["Jérémie Dimino <jeremie@dimino.org>"]
 homepage: "https://github.com/mirage/mmap"
 bug-reports: "https://github.com/mirage/mmap/issues"
+doc: "https://mirage.github.io/mmap/"
 dev-repo: "git+https://github.com/mirage/mmap.git"
 license: "LGPL 2.1 with linking exception"
 build: [
