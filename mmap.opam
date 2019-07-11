@@ -11,6 +11,7 @@ build: [
 ]
 depends: [
   "ocaml" {>= "4.02.3"}
+  "bigarray-compat"
   "dune" {build & >= "1.6"}
 ]
 synopsis: "File mapping functionality"
